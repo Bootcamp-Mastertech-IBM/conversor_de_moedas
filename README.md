@@ -8,30 +8,36 @@ O aplicação consite em pegar uma moeda exemplo(Dolar), e converter para moeda(
 Criamos um conversor de moedas em python. Aqui usamos o Tkinter para a GUI e a biblioteca request para fazer a chamada da API.
 A ide escolhida foi o vscode, criamos o layout do projeto, criamos as funções, buttons, label e frames  e concluimos todo o processo para a conversão das moedas.
 
+![Alt text](<Cod 1-2.png>)
 
-# ⚙️ Executando os testes
+
+![Alt text](interface-1-1-1.png)    ![Alt text](interface2-1.png)
+
+
+# ⚙️ Executando os testes!
  
- Testes realizados no terminal do vscode todos foram positivos, aplicação funcionando
+ Testes realizados no terminal do vscode todos foram positivos, aplicação funcionand
+
+ <video src="../../Desktop/Conversor%20de%20Moedas%20.mp4" controls title="testando o cód"></video>
 
 
-
-
-# 📦 Implantação
-A plataforma te oferta opções de importar bliotecas e fazer requisão de Api, tornando o desenvolvimento mais rapido e produtivi e varios outros benefecios para codar.
-
-# 🛠️ Construído com
+# 🛠️ Construído com!
 https://code.visualstudio.com/download: IDE usado
 
 https://api.exchangerate-api.com/v4/latest/: requisição de API
 
 # BiBLIOTECAS USADAS
 
- from audioop import getsample
+from audioop import getsample 
  
 from tkinter import Tk, ttk
+
 from tkinter import *
+
 import requests
+
 import json
+
 import string
 
 # ✒️ Autores
