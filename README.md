@@ -36,10 +36,6 @@ A ide escolhida foi o vscode, criamos o layout do projeto, criamos as funções,
 
 
 
-
-# 📦 Implantação
-A plataforma te oferta opções de importar bliotecas e fazer requisão de Api, tornando o desenvolvimento mais rapido e produtivi e varios outros benefecios para codar.
-
 # 🛠️ Construído com
 >>>>>>> ab4c69e1c8a6374086e85fa0fa59df4ac901b1c5
 https://code.visualstudio.com/download: IDE usado
